@@ -26,3 +26,15 @@ This project is a secure Node.js API built with Express that implements advanced
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+Week 5 – Ethical Hacking Report
+
+Performed testing on OWASP Juice Shop.
+
+Identified SQL Injection vulnerability.
+
+Verified CSRF protection is active.
+
+No code changes were required this week as fixes already existed.
+
+See attached Week5_Report.pdf for detailed findings.
+
